@@ -25,7 +25,7 @@ You can run the app directly in your browser. No installation needed.
 
 ```bash
 # Open in your default browser
-xdg-open https://your-demo-link.com
+[Click here](https://syberverse-music-player.netlify.app/)
 # or on macOS
-open https://your-demo-link.com
+[Click here](https://syberverse-music-player.netlify.app/)
 ```
