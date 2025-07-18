@@ -23,9 +23,8 @@ You can run the app directly in your browser. No installation needed.
 
 ### 🔗 Open the app
 
-```bash
+
 # Open in your default browser
 [Click here](https://syberverse-music-player.netlify.app/)
 # or on macOS
 [Click here](https://syberverse-music-player.netlify.app/)
-```
