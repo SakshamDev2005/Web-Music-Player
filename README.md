@@ -1,16 +1,31 @@
-<<<<<<< HEAD
+
 # Web-Music-Player
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎵 Offline Music Player
 
-Currently, two official plugins are available:
+A simple and elegant **offline music player** that lets you **upload and play your own music files** directly in the browser — no downloads, no database, no internet after upload. 🎧
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a8c37bd (Done)
+- 📁 Upload and play your music (MP3, WAV, OGG, etc.)
+- 💾 Works fully offline after upload
+- ⚡ No backend or database
+- 🎨 Clean, minimal UI
+- 🔒 100% privacy — files never leave your browser
+
+---
+
+## 🎬 Live Demo
+
+You can run the app directly in your browser. No installation needed.
+
+### 🔗 Open the app
+
+```bash
+# Open in your default browser
+xdg-open https://your-demo-link.com
+# or on macOS
+open https://your-demo-link.com
+```
