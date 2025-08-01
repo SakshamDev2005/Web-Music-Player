@@ -449,7 +449,7 @@ body, #root {
   .music-player-glass {
     max-width: 98vw;
     padding: 1.2rem 0.5rem;
-    margin: 0.5rem;
+    margin: 2rem;
   }
   .music-player-glass h1 {
     font-size: 1.2rem;
