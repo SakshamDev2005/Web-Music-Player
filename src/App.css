@@ -429,12 +429,17 @@ body, #root {
     gap: 1.5rem;
   }
   .music-list-panel, .music-player-glass {
-    margin: 0.7rem 0;
+    margin: 2rem 0;
     max-width: 98vw;
     min-width: 0;
     width: 100%;
     min-height: unset;
   }
+
+  .music-player-glass {
+    margin: 100px;  
+  }
+  
   .music-list-panel .track-list {
     max-height: 180px;
   }
